@@ -1,4 +1,4 @@
-## Referençias
+## Referencias
 
     Para ler a matriz bidimensional começando da direita para esquerda em direção a sua "base", Foi usado um algoritimo para leitura na diagonal, onde a leitura tem início com o último item da primeira linha e a cada nova interação o algoritimo percorre a linha seguinte com os itens antecessores ao ultimo item da linha antecessora, esse fluxo é excutado até o fim da iteração.
 
